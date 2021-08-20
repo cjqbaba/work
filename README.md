@@ -1,10 +1,17 @@
-# work
+# 工作复习总结目录
 
-```java
-class solution{
-    public static void main(){
-        
-    }
-}
-```
+# 数据结构
 
+# 操作系统
+
+# 计算机网络
+
+# mysql
+
+# linux
+
+# java
+
+# 设计模式
+
+# 面经
